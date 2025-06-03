@@ -1,1 +1,1 @@
-# EleLabs_Task6
+In this task, I attempted to create multiple passwords with different complexity levels and tested them on PasswordMeter.com. I observed how the addition of uppercase letters, symbols, numbers, and longer lengths improved the score. I also researched common password cracking methods like brute force and dictionary attacks, and understood how stronger passwords take significantly more time to crack.
